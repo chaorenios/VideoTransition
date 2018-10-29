@@ -1,0 +1,6 @@
+framework module Pods_VideoTransition {
+  umbrella header "Pods-VideoTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}
